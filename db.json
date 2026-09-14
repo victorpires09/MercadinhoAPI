@@ -1,0 +1,46 @@
+{
+    "usuarios": [
+        {
+            "id":1,
+            "email":"victor@gmail.com",
+            "senha":"zagabilit"
+        },
+        {
+            "id": 2,
+            "email": "edinho@gmail.com",
+            "senha": "edinho"
+        }
+    ],
+    "produtos":[
+        {
+            "id": 1,
+            "nome": "clear men",
+            "preco": 40.0,
+            "imagem": "https://americanas.vtexassets.com/arquivos/ids/431835-768-auto/124569531_1SZ.webp?v=638750822694700000&quality=9"
+        },
+        {
+            "id": 2,
+            "nome": "head & shoulders",
+            "preco": 35.0,
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBeyajY2JBzpqxdMIvNnrNt1zGcigUfVICFMfspzCpogg8TXgYOj-8yJw&s=10"
+        },
+        {
+            "id": 3,
+            "nome": "dove men care",
+            "preco": 38.0,
+            "imagem": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dve/dve07216/l/14.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "pantene",
+            "preco": 32.0,
+            "imagem": "https://m.media-amazon.com/images/I/51YN9E9CZZL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "suflair",
+            "preco": 7,
+            "imagem": "https://docemalu.vtexassets.com/arquivos/ids/5360903/8aa87087ec125e728b8f70bbca5df5797fdfa800.jpg?v=639009070788070000"
+        }
+    ]
+}
