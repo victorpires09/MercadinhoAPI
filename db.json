@@ -3,12 +3,14 @@
         {
             "id":1,
             "email":"victor@gmail.com",
-            "senha":"zagabilit"
+            "senha":"zagabilit",
+            "admin": true
         },
         {
             "id": 2,
             "email": "edinho@gmail.com",
-            "senha": "edinho"
+            "senha": "edinho",
+            "admin": false
         }
     ],
     "produtos":[
