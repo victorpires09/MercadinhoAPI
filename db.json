@@ -12,6 +12,12 @@
             "senha": "edinho",
             "admin": false
         }
+        {
+            "id": 3,
+            "email": "lucas@gmail.com",
+            "senha": "lucas",
+            "admin": false
+        }
     ],
     "produtos":[
         {
